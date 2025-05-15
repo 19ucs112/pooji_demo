@@ -23,7 +23,7 @@ public class Customer {
 
     public boolean checkCustomer(String id) {
         checkCustomerExistency(id);
-        return map.containsKey(id);// i miss u
+        return map.containsKey(id);
     }
 
     public static boolean checkCustomerExistency(String id) {
