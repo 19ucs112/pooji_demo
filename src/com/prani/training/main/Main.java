@@ -8,5 +8,6 @@ public class Main {
         System.out.println(customer.checkCustomer("cust"));
         //added comment
         System.out.println(10+20);
+        System.out.print("Hello pooji");
     }
 }
