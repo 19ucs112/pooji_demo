@@ -9,8 +9,7 @@ public class Main {
         //added comment
         System.out.println(10+20);
         System.out.println("Hello");
-
-
         System.out.print("Hello pooji");
+        System.out.println("removed unwanted lines");
     }
 }
